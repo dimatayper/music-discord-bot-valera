@@ -13,7 +13,7 @@ Valera - это простой Discord бот для воспроизведен�
  - Убедитесь, что у вас установлен Docker на вашем компьютере или сервере.
  - Cклонируйте этот репозиторий:
 ```bash
-git clone https://github.com/yourusername/music-discord-bot-valera.git
+git clone https://github.com/dimatayper/music-discord-bot-valera.git
 ```
  - Перейдите в каталог репозитория:
 ```bash
